@@ -1,0 +1,27 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("pepe.jpg");
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: #50ff6d;
+}
+
+.headers {
+    background-color: #895500;
+}
+
+h2.headers {
+    color: rgb(54, 24, 120);
+}
+
+ul{
+    color:blue;
+}
+
+#ummm {
+    background-color: blueviolet;
+}
